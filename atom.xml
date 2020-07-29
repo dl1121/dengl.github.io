@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://dc1006.cn/"/>
   <updated>2020-07-28T09:07:42.084Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://dc1006.cn/</id>
   
   <author>
     <name>邓利</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CSS3帧动画</title>
-    <link href="http://yoursite.com/2020/07/28/css3%E5%8A%A8%E7%94%BB/"/>
-    <id>http://yoursite.com/2020/07/28/css3%E5%8A%A8%E7%94%BB/</id>
+    <link href="http://dc1006.cn/2020/07/28/css3%E5%8A%A8%E7%94%BB/"/>
+    <id>http://dc1006.cn/2020/07/28/css3%E5%8A%A8%E7%94%BB/</id>
     <published>2020-07-28T03:04:22.000Z</published>
     <updated>2020-07-28T09:07:42.084Z</updated>
     
@@ -36,10 +36,10 @@
     </summary>
     
     
-      <category term="CSS" scheme="http://yoursite.com/categories/CSS/"/>
+      <category term="CSS" scheme="http://dc1006.cn/categories/CSS/"/>
     
     
-      <category term="CSS" scheme="http://yoursite.com/tags/CSS/"/>
+      <category term="CSS" scheme="http://dc1006.cn/tags/CSS/"/>
     
   </entry>
   
